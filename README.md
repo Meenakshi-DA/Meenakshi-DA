@@ -1,12 +1,13 @@
 # Hi, I'm Meenakshi 👋
-
-**Data Analyst | SQL • Snowflake • dbt • Tableau | KPI Reporting & BI Dashboards | Customer & Operational Analytics**
-
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
 ![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-blue)
 ![dbt](https://img.shields.io/badge/dbt-Analytics%20Engineering-orange)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-purple)
 ![Python](https://img.shields.io/badge/Python-Pandas-yellow)
+
+**Data Analyst | SQL • Snowflake • dbt • Tableau | KPI Reporting & BI Dashboards | Customer & Operational Analytics**
+
+
 
 📍 Berlin, Germany  
 
