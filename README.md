@@ -4,7 +4,7 @@
 ![dbt](https://img.shields.io/badge/dbt-Analytics%20Engineering-orange)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-purple)
 ![Python](https://img.shields.io/badge/Python-Pandas-yellow)
-![Java](https://img.shields.io/badge/Java-Rose)
+![Java](https://img.shields.io/badge/Java-green)
 
 **Data Analyst | SQL • Snowflake • dbt • Tableau | KPI Reporting & BI Dashboards | Customer & Operational Analytics**
 
