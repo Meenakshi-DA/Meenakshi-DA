@@ -39,8 +39,11 @@ My work focuses on building analytical workflows, designing KPI dashboards, and 
 ### Data Visualization
 - Tableau (Tableau Desktop Specialist Certified)
 
-### Tools
+### Programming 
 - Python (Pandas)
+- Java (SpringBoot)
+  
+### Tools
 - Excel
 - Git & GitHub
 
